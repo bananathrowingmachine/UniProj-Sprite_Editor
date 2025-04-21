@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>addNewFrame.png</file>
+        <file>brush.png</file>
+        <file>eraser.png</file>
+        <file>fill.png</file>
+        <file>eyeDropper.png</file>
+        <file>removeCurrentFrame.png</file>
+        <file>duplicateFrame.png</file>
+    </qresource>
+    <qresource prefix="/backgrounds">
+        <file>transparentBackground.png</file>
+    </qresource>
+</RCC>
